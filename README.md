@@ -13,7 +13,7 @@ For Linux Users
 ```
 Open a terminal 
 <br>Copy and paste following command<br>
-> git clone https://github.com/rahulkumar082/MatrixCalculator/
+> git clone https://github.com/rahulkumar082/MatrixCalculator.git
 >
 > ./out
 
